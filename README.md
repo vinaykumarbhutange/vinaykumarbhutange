@@ -37,9 +37,11 @@ Software Engineer with hands-on experience in building scalable and <br>resilien
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinaybhutange_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-kumar-bhutange) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/D45evil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinaybhutange@gmail.com) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vinaykumarbhutange&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vinaykumarbhutange&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarbhutange&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=vinaykumarbhutange&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
+
+![](https://streak-stats.demolab.com?user=vinaykumarbhutange&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarbhutange&theme=dark&hide_border=false&layout=compact&cache_seconds=1800)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vinaykumarbhutange&theme=radical&no-frame=false&no-bg=true&margin-w=4)
